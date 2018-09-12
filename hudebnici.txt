@@ -1,0 +1,50 @@
+1;4tet;2;2
+2;Abraxas;27;2
+3;Arakain;22;2
+4;Argema;26;2
+5;Bárta;Daniel;1;2
+6;Basiková Bára;1;2
+7;Bílá;Lucie;24;2
+8;Buty;13;2
+9;Cimbal Classic;12;2
+10;Cop;6;2
+11;Cura;Jose;23;0
+12;Èechomor;13;2
+13;Elán;28;2
+14;Fleret;13;2
+15;J.A.R.;14;2
+16;Jablkoò;11;2
+17;Filipová;Lenka;24;2
+18;Gott;Karel;24;2
+19;Harley;7;2
+20;Hop trop;11;2
+21;Chinaski;24;2
+22;Kabát;22;2
+23;Kamelot;11;2
+24;Katapult;0;2
+25;Korn;Jiøí;0;2
+26;Kryštof;0;2
+27;Landa;Daniel;0;2
+28;Langerová;Aneta;24;2
+29;Lucie;26;2
+30;Mandrage;26;2
+31;Mig21;26;2
+32;Mišík;Vladimír;5;2
+33;Monkey Business;14;2
+34;Müller;Richard;24;2
+35;Neøež;1;2
+36;Nezmaøi;11;2
+37;Nightwork;0;2
+38;Olympic;28;2
+39;Plíhal;Karel;11;2
+40;Ready Kirken;0;2
+41;Sto zvíøat;29;2
+42;Support Lesbiens;26;2
+43;Toxique;24;2
+44;Tøi sestry;25;2
+45;Urbanová; Eva;23;2
+46;Visací zámek;25;2
+47;Vondráèková;Lucie;24;2
+48;Vypsaná fixa;0;2
+49;Wanastowi Vjecy;26;2
+50;Yo Yo Band;27;2
